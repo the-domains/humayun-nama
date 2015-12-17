@@ -1,0 +1,29 @@
+name: humayun-nama
+favicon: null
+layout_spectrum: 0.3769369595684111
+typography_spectrum: 0.5359772443771362
+title: 'হুমায়ুননামা '
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7929080622270703
+  lightness: 0.9521041011903435
+  saturation: 0.9930112424772233
+  rhythmicContrast: 0.2853186547290534
+purpose: []
