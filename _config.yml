@@ -1,7 +1,7 @@
 name: humayun-nama
 favicon: null
-layout_spectrum: 0.3769369595684111
-typography_spectrum: 0.5359772443771362
+layout_spectrum: 1
+typography_spectrum: 0.70023
 title: 'হুমায়ুননামা '
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.7929080622270703
-  lightness: 0.9521041011903435
-  saturation: 0.9930112424772233
-  rhythmicContrast: 0.2853186547290534
+  brandStrength: 0.1875
+  lightness: 0.3125
+  saturation: 0.25
+  rhythmicContrast: 0.25
 purpose: []
